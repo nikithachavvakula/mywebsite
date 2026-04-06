@@ -1,11 +1,12 @@
 export default function Achievement() {
   return (
     <div className="card">
-      <h2>Achievements</h2>
+      <h2>Certifications & Achievements</h2>
       <ul>
-        <li>NPTEL Java Certification</li>
-        <li>Python Certification</li>
-        <li>AI for Everyone</li>
+        <li>NPTEL Certification in Java Programming</li>
+        <li>Bank PO Exam - 34th Rank</li>
+        <li>AWS Certification</li>
+        <li>Salesforce Development</li>
       </ul>
     </div>
   );

@@ -5,6 +5,7 @@ import Skills from "./Skills";
 import Personal from "./Personal";
 import Project from "./project";
 import Achievement from "./Achivement";
+import Experience from "./Experience";
 
 export default function Body() {
   return (
@@ -15,6 +16,7 @@ export default function Body() {
       <Project />
       <Achievement />
       <Personal />
+      <Experience />
     </div>
   );
 }

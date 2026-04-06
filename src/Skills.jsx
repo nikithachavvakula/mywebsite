@@ -1,8 +1,9 @@
 export default function Skills() {
   const skills = [
-    "Python", "Java", "JavaScript",
-    "HTML", "CSS", "Bootstrap",
-    "React", "Git", "VS Code"
+    "React.js", "JavaScript",
+    "HTML", "CSS", "Responsive Design",
+    "Git", "GitHub", "VS Code",
+    "Google Colab", "Jupyter Notebook"
   ];
 
   return (
